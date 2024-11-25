@@ -26,3 +26,5 @@ INSERT INTO zvaigznes
 (image,userid)
 VALUES
 (1,"stars1.png");
+SELECT * FROM stars;
+-- Uztaisit HTML formu, kas lauj pievienot lietotaju;
